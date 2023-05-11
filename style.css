@@ -1,0 +1,25 @@
+body{
+    font-family:'Lucida Sans';
+    background-color: bisque;
+}
+
+button{
+    margin: 20px;
+    color: darkolivegreen;
+    background-color: beige;
+    font-size: 40px;
+    font-family: "Cambria";
+}
+
+p{
+    color: darkolivegreen;
+    margin: 20px;
+    font-size: 60px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

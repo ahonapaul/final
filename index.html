@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- p5.speech addons -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.5/p5.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.5/addons/p5.dom.js"></script>
+	<script src="libraries/p5.speech.js"></script>
+
+    <!--main js script-->
+    <script src="script.js"></script>
+
+    <title>Conversations with a Computer</title>
+</head>
+<body>
+    <button id="qbutton" onclick="showResult()">Start</button>
+    <p id="question"></p>
+    <p id="response"></p>
+    <p id="title"></p>
+    <button onclick="resetConvo()">Reset</button>
+</body>
+</html>

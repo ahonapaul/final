@@ -1,0 +1,133 @@
+{
+    "sea": 
+    [
+        {
+            "quote" : "Let me pull myself out of these waters",
+            "author" : "Virginia Woolf",
+            "title" : "The Waves",
+            "syllables" : 10
+        },
+        {
+            "quote" : "And what are you now? Water?",
+            "author" : "Ocean Vuong",
+            "title" : "On Earth We're Briefly Gorgeous",
+            "syllables" : 7
+        },
+        {
+            "quote" : "How foolish to believe we are more powerful than the sea or the sky",
+            "author" : "Ruta Sepetys",
+            "title" : "Salt To The Sea",
+            "syllables" : 17
+        }
+    ],
+
+    "dark":
+    [
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        }
+    ],
+
+    "heights":
+    [
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        }
+    ],
+
+    "spiders":
+    [
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        }
+    ],
+
+    "death":
+    [
+        {
+            "quote" : "After awhile you could get used to anything.",
+            "author" : "Albert Camus",
+            "title" : "The Stranger",
+            "syllables" : 12
+        },
+        {
+            "quote" : "There began the most terrible nightmare a person could endure",
+            "author" : "Amparo Davila",
+            "title" : "The Houseguest",
+            "syllables" : 16
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        }
+    ],
+
+    "social":
+    [
+        {
+            "quote" : "People are always ruining things.",
+            "author" : "J.D. Salinger",
+            "title" : "The Catcher In The Rye",
+            "syllables" : 9
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        },
+        {
+            "quote" : "",
+            "author" : "",
+            "title" : "",
+            "syllables" : 5
+        }  
+    ]
+}
